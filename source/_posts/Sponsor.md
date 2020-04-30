@@ -7,3 +7,5 @@ cover: /img/sponsor.JPG
 # 赞助表
 
 ![赞助表](sponsor.JPG)
+
+![收款码](pay.jpg)
